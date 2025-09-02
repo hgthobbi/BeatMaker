@@ -1,5 +1,3 @@
-#beat maker application, code from https://www.youtube.com/watch?v=F3J3PZj0zi0
-
 #pygame libarary contains mixer and timing components to ensure the app has proper time quantizing
 import pygame
 from pygame import mixer
